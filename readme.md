@@ -2,11 +2,7 @@
 
 Esse script envia a mensagem que você desejar o número de vezes que escolher.
 
-<br>
-
 ---
-
-<br>
 
 - ## <strong>Como usar?</strong>
 
@@ -17,11 +13,7 @@ Esse script envia a mensagem que você desejar o número de vezes que escolher.
 5. Cole o código que você copiou e aperte <strong>Enter</strong>
 6. Insira as informações desejadas e pronto!
 
-<br>
-
 ---
-
-<br>
 
 ## <strong>Todo</strong>
 - [x] Mesma mensagem repetidas vezes
